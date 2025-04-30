@@ -15,5 +15,7 @@ def calculate_area(base, height, shape_type):
     else:
         raise ValueError("Invalid shape_type. Use 'triangle' or 'rectangle'.")
     return area
+#data added in the 1st file and create the changes 
+
 print(calculate_area(10, 5, "triangle"))   # Output: 25.0
 print(calculate_area(10, 5, "rectangle"))  # Output: 50

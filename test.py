@@ -12,4 +12,8 @@ sum = num1 + num2
 
 # Display the result
 print("The sum is:", sum)
+# Display the result change
+# Display the result change 
+# Display the result change
+
 
